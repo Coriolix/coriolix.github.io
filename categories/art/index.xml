@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Art on Coriolix&#39;s Blog</title>
-    <link>https://example.org/categories/art/</link>
+    <link>https://coriolix.github.io/categories/art/</link>
     <description>Recent content in Art on Coriolix&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 26 Apr 2023 12:08:00 +0800</lastBuildDate>
-    <atom:link href="https://example.org/categories/art/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://coriolix.github.io/categories/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flowers for Algernon</title>
-      <link>https://example.org/art/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/flowers_for_algernon/</link>
+      <link>https://coriolix.github.io/art/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/flowers_for_algernon/</link>
       <pubDate>Wed, 26 Apr 2023 12:08:00 +0800</pubDate>
-      <guid>https://example.org/art/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/flowers_for_algernon/</guid>
+      <guid>https://coriolix.github.io/art/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/flowers_for_algernon/</guid>
       <description>&lt;p&gt;为2023年春季的科幻文学选修课创作的结课作业。以思维导图的形式，致敬了这部探讨人类智慧的名著。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Flowers for Algernon&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/flowers_for_algernon/Flowers_for_Algernon.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Flowers for Algernon&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%BD%9C/flowers_for_algernon/Flowers_for_Algernon.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>the Entity</title>
-      <link>https://example.org/art/%E6%8B%9F%E4%BA%BA/the_entity/</link>
+      <link>https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/the_entity/</link>
       <pubDate>Thu, 06 Apr 2023 12:50:00 +0800</pubDate>
-      <guid>https://example.org/art/%E6%8B%9F%E4%BA%BA/the_entity/</guid>
+      <guid>https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/the_entity/</guid>
       <description>&lt;p&gt;这是一系列关于“智能体（The Entity）”的拟人化创作，灵感来源于一些著名的人工智能或计算系统。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;gpt&#34;&gt;GPT&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;GPT的拟人形象&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E6%8B%9F%E4%BA%BA/the_entity/GPT.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;GPT的拟人形象&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/the_entity/GPT.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;sydney&#34;&gt;Sydney&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Sydney的拟人形象&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E6%8B%9F%E4%BA%BA/the_entity/Sydney.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Sydney的拟人形象&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/the_entity/Sydney.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;wolfram&#34;&gt;Wolfram&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Wolfram的拟人形象&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E6%8B%9F%E4%BA%BA/the_entity/Wolfram.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Wolfram的拟人形象&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/the_entity/Wolfram.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seaside Retreat</title>
-      <link>https://example.org/art/%E6%8B%9F%E4%BA%BA/elements/</link>
+      <link>https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/</link>
       <pubDate>Tue, 30 Aug 2022 19:43:00 +0800</pubDate>
-      <guid>https://example.org/art/%E6%8B%9F%E4%BA%BA/elements/</guid>
+      <guid>https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/</guid>
       <description>&lt;p&gt;这是我的化学元素拟人系列“Elements”的合集，记录了一些在海边的遐想。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;氢-hydrogen&#34;&gt;氢 (Hydrogen)&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;氢在海边&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E6%8B%9F%E4%BA%BA/elements/Hydrogen.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;氢在海边&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/Hydrogen.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;锰-manganese&#34;&gt;锰 (Manganese)&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;锰的肖像&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E6%8B%9F%E4%BA%BA/elements/Manganese.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;锰的肖像&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/Manganese.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;铜与铁-copper--iron&#34;&gt;铜与铁 (Copper &amp;amp; Iron)&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;铜和铁在海边长椅上&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E6%8B%9F%E4%BA%BA/elements/Copper_Iron.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;铜和铁在海边长椅上&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/Copper_Iron.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;氢与氯的草稿-hydro--chlorine---sketch&#34;&gt;氢与氯的草稿 (Hydro &amp;amp; Chlorine - Sketch)&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;氢和氯的草稿&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/art/%E6%8B%9F%E4%BA%BA/elements/Hydro_Chlorine.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;氢和氯的草稿&#34; loading=&#34;lazy&#34; src=&#34;https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/Hydro_Chlorine.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
