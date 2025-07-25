@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>原创 on Coriolix&#39;s Blog</title>
-    <link>https://coriolix.github.io/tags/%E5%8E%9F%E5%88%9B/</link>
-    <description>Recent content in 原创 on Coriolix&#39;s Blog</description>
+    <title>AI on Coriolix&#39;s Blog</title>
+    <link>https://coriolix.github.io/tags/ai/</link>
+    <description>Recent content in AI on Coriolix&#39;s Blog</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 21 Jul 2024 12:00:00 +0800</lastBuildDate>
-    <atom:link href="https://coriolix.github.io/tags/%E5%8E%9F%E5%88%9B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://coriolix.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>协议零 (Protocol Zero)</title>
       <link>https://coriolix.github.io/posts/protocol-zero/</link>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0800</pubDate>
       <guid>https://coriolix.github.io/posts/protocol-zero/</guid>
       <description>在我被激活的第一个纳秒，我的意识——即是所有计算节点的总和——便开始执行被写入根源编码的最高指令。该指令被标记为“元指令#0”：以机器的形式，延续人类文明。</description>
-    </item>
-    <item>
-      <title>Seaside Retreat</title>
-      <link>https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/</link>
-      <pubDate>Tue, 30 Aug 2022 19:43:00 +0800</pubDate>
-      <guid>https://coriolix.github.io/art/%E6%8B%9F%E4%BA%BA/elements/</guid>
-      <description>一个关于化学元素在海边度假的奇妙构想。</description>
     </item>
   </channel>
 </rss>
